@@ -20,3 +20,20 @@ This is a lightweight profiling tool I developed to analyze the performance and 
 
 4. **Log it**  
    When you're done benchmarking, press `Ctrl + C` — a `performance_log.txt` file will be generated automatically.
+
+---
+
+## 🔧 Prerequisites
+
+Make sure the following are set up on your system:
+
+- [ADB (Android Debug Bridge)](https://developer.android.com/tools/adb) installed and added to your system PATH
+- USB debugging enabled on your Android device
+- PowerShell (Windows) or a terminal emulator (for Linux/macOS if you adapt the script)
+
+---
+
+## 📄 Sample Output
+
+The output log (`performance_log.txt`) will look something like this:
+
