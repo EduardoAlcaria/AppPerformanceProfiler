@@ -32,8 +32,3 @@ Make sure the following are set up on your system:
 - PowerShell (Windows) or a terminal emulator (for Linux/macOS if you adapt the script)
 
 ---
-
-## 📄 Sample Output
-
-The output log (`performance_log.txt`) will look something like this:
-
